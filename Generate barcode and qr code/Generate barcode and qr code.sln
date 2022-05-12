@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generate barcode and qr code", "Generate barcode and qr code.csproj", "{33A24B25-95F2-4646-B465-0B538E164CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A24B25-95F2-4646-B465-0B538E164CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A24B25-95F2-4646-B465-0B538E164CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A24B25-95F2-4646-B465-0B538E164CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A24B25-95F2-4646-B465-0B538E164CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62A032BB-26A6-44B1-836E-DE90E7E2ED2E}
+	EndGlobalSection
+EndGlobal
